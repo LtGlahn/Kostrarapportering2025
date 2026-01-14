@@ -1,7 +1,7 @@
 
 # KOSTRA-leveranse 2025
 
-Årets KOSTRA-rapport fra Nasjonal vegdatabank (NVDB) bruker samme metodikk som vi har brukt siden 2020, ref [fjorårets leveranse](https://github.com/LtGlahn/kostrarapportering2024).
+	Årets KOSTRA-rapport fra Nasjonal vegdatabank (NVDB) bruker samme metodikk som vi har brukt siden 2020, ref [fjorårets leveranse](https://github.com/LtGlahn/kostrarapportering2020).
 
 Tabellen "KOSTRA 01 - Vegnett hele landet" har et par faner med detaljert veglengde per vegkategori for hele landet, samt også per fylke og per kommune. Tabellen "EKSTRARAPPORT motorveger.xlsx" oppsummerer motorveger og motortrafikkveg.
 
